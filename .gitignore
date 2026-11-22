@@ -1,0 +1,21 @@
+# Input data (delivered separately)
+*.csv
+*.xlsx
+*.zip
+ImagenesSatelitePentadal/
+
+# Generated outputs
+Salidas*/
+Figuras*/
+
+# Environments and caches
+venv_pf/
+.venv/
+__pycache__/
+.RData
+.Rhistory
+.Rproj.user/
+
+# Report files
+*.pdf
+*.docx
